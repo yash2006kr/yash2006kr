@@ -10,35 +10,7 @@
   <img src="https://img.shields.io/github/stars/yash2006kr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=blue" align="right" />
 </div>
 
-# 🌐 Personal Portfolio - Yashwanth K R
-
-Welcome to my personal portfolio website! 🚀  
-This is where I showcase my journey as a student, budding coder, and astronomy lover 🌌.  
-
 🔗 **Live Website**: [yash2006kr.github.io/yashwanthkr](https://yash2006kr.github.io/yashwanthkr/)  
----
-
-## ✨ Features
-
-- 🎭 **Dark / Light Mode Toggle** (custom theme switcher) - Don't know why I'm not removing it though it doesn't work 
-- 🧑‍🚀 **About Me** section – my background & interests  
-- 📚 **Blog Section** – interactive posts like:  
-  - 🧩 Maze Game (playable in browser)  
-  - 🎮 Terminal Games Collection (download & play Python games)  
-  - 👾 Pacman Game (web based)
-  - and many more...
-- ⛅ **Weather Button** – quick link to [Zoom Earth](https://zoom.earth) for live weather updates  
-- 📄 **Resume Download** - 📬 **Contact Section** – email + GitHub + socials  
-
----
-
-## 🛠️ Tech Stack (This Portfolio)
-
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **Styling**: Custom CSS + [AOS Animations](https://michalsnik.github.io/aos/)  
-- **Icons**: [FontAwesome](https://fontawesome.com/)  
-- **Deployment**: GitHub Pages  
-
 ---
 
 ## 🛠️ My General Tools & Skills
