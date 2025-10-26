@@ -92,9 +92,3 @@
 </div>
 
 ---
-
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yash2006kr/yashwanthkr
-NOTE : "This website is completely built using AI"
