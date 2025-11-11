@@ -6,6 +6,7 @@
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=yash2006kr&&style=flat-square&color=blue" align="right" />
+  <img src="https://img.shields.io/github/followers/yash2006kr?style=flat-square&color=blue" align="right" />
   <img src="https://img.shields.io/github/stars/yash2006kr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=blue" align="right" />
 </div>
 
@@ -78,7 +79,7 @@
         <br>Express.js
       </td>
       <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="48" height="48" alt="Render" /></a>
         <br>Render
       </td>
     </tr>
@@ -147,7 +148,7 @@
 
 <div align="center">
   <a href="mailto:yash2006kr@outlook.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yash2006kr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
   <a href="https://github.com/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
   <a href="https://x.com/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X (Twitter)" /></a>
   <a href="https://instagram.com/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>
