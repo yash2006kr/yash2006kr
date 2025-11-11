@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/yash2006kr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=blue" align="right" />
 </div>
 
-🔗 **Live Website**: [yash2006kr.github.io/yashwanthkr](https://yash2006kr.github.io/yashwanthkr/)  
+🔗 **Live Website**: [yash2006kr.github.io/yashwanthkr](https://yash2006kr.github.io/portfolio/)  
 
 ---
 
