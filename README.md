@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=yash2006kr&&style=flat-square&color=blue" align="right" />
   <img src="https://img.shields.io/github/stars/yash2006kr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=blue" align="right" />
@@ -49,7 +50,7 @@
 <br>
 
 <div align="center">
-  <h3 align="center"> 🌐 Web Development & Machine Learning </h3>
+  <h3 align="center"> 🌐 Web Development & Deployment </h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -77,8 +78,8 @@
         <br>Express.js
       </td>
       <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>
-        <br>TensorFlow
+        <a href="#"><img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" /></a>
+        <br>Render
       </td>
     </tr>
   </table>
@@ -129,6 +130,10 @@
         <br>VS Code
       </td>
       <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" /></a>
+        <br>PyCharm
+      </td>
+      <td align="center" width="96">
         <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
         <br>Ubuntu Linux
       </td>
@@ -137,3 +142,18 @@
 </div>
 
 ---
+
+## 📬 Contact Me
+
+<div align="center">
+  <a href="mailto:yash2006kr@outlook.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yash2006kr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+  <a href="https://github.com/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
+  <a href="https://x.com/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X (Twitter)" /></a>
+  <a href="https://instagram.com/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>
+  <a href="https://discord.com/users/yash2006kr" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
+</div>
+
+<p align="center">
+  📧 yash2006kr@outlook.com
+</p>
