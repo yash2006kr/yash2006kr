@@ -100,14 +100,6 @@
         <a href="#"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /></a>
         <br>Raspberry Pi
       </td>
-      <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" /></a>
-        <br>Photoshop
-      </td>
-      <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" /></a>
-        <br>Premiere Pro
-      </td>
     </tr>
   </table>
 </div>
