@@ -89,7 +89,7 @@
 <br>
 
 <div align="center">
-  <h3 align="center"> ⚙️ Hardware & Creative Tools </h3>
+  <h3 align="center"> ⚙️ Hardware </h3>
   <table>
     <tr>
       <td align="center" width="96">
