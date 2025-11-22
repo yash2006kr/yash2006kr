@@ -150,3 +150,6 @@
 <p align="center">
   📧 yash2006kr@outlook.com
 </p>
+<div align="center">
+  <i>Open to collaboration and new opportunities</i>
+</div>
