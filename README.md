@@ -127,6 +127,10 @@
         <br>PyCharm
       </td>
       <td align="center" width="96">
+        <a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spyderide.svg" width="48" height="48" alt="Spyder" /></a>
+        <br>Spyder
+      </td>
+      <td align="center" width="96">
         <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
         <br>Ubuntu Linux
       </td>
