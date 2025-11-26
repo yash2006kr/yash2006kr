@@ -16,18 +16,11 @@
 
 I am a Computer Science Engineering student in **Bangalore, India**, passionate about blending code with creativity. When I'm not debugging algorithms, you can find me gazing at the stars.
 
-- 🔭 I’m currently working on a **Smart Campus Event Management Platform** for DBIT.
-- 🌱 I’m currently sharpening my skills in **Data Structures, Python, and React**.
+- 🔭 I’m currently working on development.
+- 🌱 I’m currently sharpening my skills.
 - 🛰️ **Space Nerd:** I love Astrophotography and use my telescope to capture the Moon and planets.
 - ⚙️ **Hardware:** I enjoy building prototypes with Arduino and Raspberry Pi.
 
----
-
-### 🪐 NASA Picture of the Day
-<img src="https://apod.nasa.gov/apod/image/2405/LagoonCenter_Haponen_960.jpg" alt="NASA Picture of the Day" width="100%" />
-<br>
-<b>The Lagoon Nebula without Stars</b> <br>
-Credit & Copyright: <a href="https://www.instagram.com/jukkap_haponen/">Jukka-Pekka Haponen</a>
 ---
 
 ### 📊 My GitHub Stats
@@ -46,21 +39,6 @@ Credit & Copyright: <a href="https://www.instagram.com/jukkap_haponen/">Jukka-Pe
 </picture>
 
 ---
-
-### 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🏛️ Smart Campus Platform</h3>
-      <img src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d8d087994f57579d4fd4140082f64d7c.png?resize=400x300&vertical=center" width="100%" alt="Smart Campus" />
-      <br><br>
-      A centralized event management app tailored for DBIT's campus culture.
-      <br>
-      <b>Tech:</b> Python, SQL, Web Stack
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <h3>🔗 <a href="https://yash2006kr.github.io/portfolio/">Visit My Live Portfolio</a></h3>
