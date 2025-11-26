@@ -12,6 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/nasa-apod-readme-workflow@v0.2.1
         with:
-          # You can obtain an API key from https://api.nasa.gov/
-          # OR just leave this out to use the demo key (it has rate limits but works for this)
-          api_key: "DEMO_KEY"
+          api_key: "SheZoCRw1pgRU1m2q7ctTIwVcm0DthI4vMbCAYyS"
