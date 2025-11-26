@@ -1,0 +1,17 @@
+name: Update NASA APOD
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/nasa-apod-readme-workflow@v0.2.1
+        with:
+          # You can obtain an API key from https://api.nasa.gov/
+          # OR just leave this out to use the demo key (it has rate limits but works for this)
+          api_key: "DEMO_KEY"
