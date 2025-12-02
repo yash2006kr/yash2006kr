@@ -25,11 +25,6 @@ I am a Computer Science Engineering student in **Bangalore, India**, passionate 
 
 ### 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash2006kr&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash2006kr&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
-</div>
-
 <br>
 
 <picture>
