@@ -102,9 +102,33 @@ I am a Computer Science Engineering student in **Bangalore, India**, passionate 
 ### 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:yash2006kr@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yash2006kr"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
-  <a href="https://github.com/yash2006kr"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
-  <a href="https://x.com/yash2006kr"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X" /></a>
-  <a href="https://discord.com/users/yash2006kr"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
+  <a href="mailto:yash2006kr@outlook.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yash2006kr" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yash2006kr" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
+  </a>
+  <a href="https://x.com/yash2006kr" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" width="42" alt="X" />
+  </a>
+
+  <!-- Bluesky (skillicons does NOT support it, so we use SVG) -->
+  <a href="https://bsky.app/profile/yash2006kr.bsky.social" title="Bluesky">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"
+         width="40"
+         alt="Bluesky" />
+  </a>
+
+  <a href="https://discord.com/users/yash2006kr" title="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" width="42" alt="Discord" />
+  </a>
 </div>
+
+<br/>
+
+<p align="center">
+  <i>Let’s build something cool together 🚀</i>
+</p>
