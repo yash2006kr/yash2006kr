@@ -23,18 +23,6 @@ I am a Computer Science Engineering student in **Bangalore, India**, passionate 
 
 ---
 
-### 📊 My GitHub Stats
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
-
----
-
 <div align="center">
   <h3>🔗 <a href="https://yash2006kr.github.io/portfolio/">Visit My Live Portfolio</a></h3>
 </div>
@@ -96,9 +84,28 @@ I am a Computer Science Engineering student in **Bangalore, India**, passionate 
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender
       </td>
+      <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" /><br>Photoshop
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=premiere" width="48" height="48" alt="Premiere Pro" /><br>Premiere Pro
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ableton" width="48" height="48" alt="Ableton Live" /><br>Ableton Live
+      </td>
     </tr>
+  </tr>
   </table>
 </div>
+
+---
+
+### 🎨 Creative & Media Skills
+
+- 🎬 **Video Editing (Non-Professional):** Comfortable with **Adobe Premiere Pro** and **CapCut** for short-form edits, transitions, and template-based content.
+- 🖼️ **Photo Editing:** Decent working knowledge of **Adobe Photoshop** for basic retouching, compositing, and visual enhancements.
+- 🎵 **Audio Production:** Create and experiment with music using **Ableton Live 12 Lite** paired with **Arturia MiniLab 3** (MIDI keyboard, sound design, and basic mixing).
 
 ---
 
