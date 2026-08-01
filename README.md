@@ -38,10 +38,3 @@ I am especially interested in Java-based application development, backend system
 - Email: [yash2006kr@outlook.com](mailto:yash2006kr@outlook.com)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash2006kr&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2006kr&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
-</p>
