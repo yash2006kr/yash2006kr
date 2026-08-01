@@ -1,173 +1,47 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Engineering+Student;Full+Stack+Developer;Astronomy+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</h1>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash2006kr&style=flat-square&color=blue" align="right" />
-  <img src="https://img.shields.io/github/followers/yash2006kr?style=flat-square&color=blue" align="right" />
-  <img src="https://img.shields.io/github/stars/yash2006kr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=blue" align="right" />
-</div>
-
-<br/>
-
-### 👋 Hi there, I'm Yashwanth K R!
-
-I am a Computer Science Engineering student in **Bangalore, India**, passionate about blending code with creativity. When I'm not debugging algorithms, you can find me gazing at the stars.
-
-- 🔭 I’m currently working on development.
-- 🌱 I’m currently sharpening my skills.
-- 🛰️ **Space Nerd:** I love Astrophotography and use my telescope to capture the Moon and planets.
-- ⚙️ **Hardware:** I enjoy building prototypes with Arduino and Raspberry Pi.
-
----
-
-<div align="center">
-  <h3>🔗 <a href="https://yash2006kr.github.io/portfolio/">Visit My Live Portfolio</a></h3>
-</div>
-
----
-
-### 🛠️ Tools & Technologies
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br>Arduino
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>Raspberry Pi
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender
-      </td>
-      <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" /><br>Photoshop
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=premiere" width="48" height="48" alt="Premiere Pro" /><br>Premiere Pro
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ableton" width="48" height="48" alt="Ableton Live" /><br>Ableton Live
-      </td>
-    </tr>
-  </tr>
-  </table>
-</div>
-
----
----
-
-<div class="github-stats">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash2006kr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2006kr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash2006kr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-</div>
-
-<div class="contribution-graph">
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash2006kr&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
-</div>
-
----
-
-### 🎨 Creative & Media Skills
-
-- 🎬 **Video Editing (Non-Professional):** Comfortable with **Adobe Premiere Pro** and **CapCut** for short-form edits, transitions, and template-based content.
-- 🖼️ **Photo Editing:** Decent working knowledge of **Adobe Photoshop** for basic retouching, compositing, and visual enhancements.
-- 🎵 **Audio Production:** Create and experiment with music using **Ableton Live 12 Lite** paired with **Arturia MiniLab 3** (MIDI keyboard, sound design, and basic mixing).
-
----
-
-### 📬 Connect with Me
-
-<div align="center">
-  <a href="mailto:yash2006kr@outlook.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash2006kr" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yash2006kr" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
-  </a>
-  <a href="https://x.com/yash2006kr" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" width="42" alt="X" />
-  </a>
-  <a href="https://bsky.app/profile/yash2006kr.bsky.social" title="Bluesky">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="40" alt="Bluesky" />
-  </a>
-  <a href="https://discord.com/users/yash2006kr" title="Discord">
-    <img src="https://skillicons.dev/icons?i=discord" width="42" alt="Discord" />
-  </a>
-</div>
-
-<br/>
+<h1 align="center">Yashwanth K R</h1>
 
 <p align="center">
-  <i>Let’s build something cool together 🚀</i>
+  Computer Science Engineering Student | Java Developer | Full-Stack Developer
+</p>
+
+<p align="center">
+  <a href="https://yash2006kr.github.io/portfolio/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/yash2006kr">LinkedIn</a> |
+  <a href="mailto:yash2006kr@outlook.com">Email</a> |
+  <a href="https://github.com/yash2006kr">GitHub</a>
+</p>
+
+---
+
+## About
+
+I am a Computer Science Engineering student based in Bangalore, India, focused on Java development, full-stack development, and building practical software solutions.
+
+I am especially interested in Java-based application development, backend systems, object-oriented programming, and writing clean, maintainable code.
+
+---
+
+## Technical Skills
+
+**Primary Focus:** Java Development, Object-Oriented Programming, Backend Development  
+**Languages:** Java, Python, C, C++, JavaScript  
+**Frontend:** React, HTML, CSS  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Linux
+
+---
+
+## Featured Links
+
+- Portfolio: [yash2006kr.github.io/portfolio](https://yash2006kr.github.io/portfolio/)
+- LinkedIn: [linkedin.com/in/yash2006kr](https://www.linkedin.com/in/yash2006kr)
+- Email: [yash2006kr@outlook.com](mailto:yash2006kr@outlook.com)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash2006kr&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2006kr&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
 </p>
