@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://yash2006kr.github.io/portfolio/">Portfolio</a> |
   <a href="https://www.linkedin.com/in/yash2006kr">LinkedIn</a> |
-  <a href="mailto:yash2006kr@outlook.com">Email</a> |
-  <a href="https://github.com/yash2006kr">GitHub</a>
+  <a href="mailto:yash2006kr@outlook.com">Email</a> 
 </p>
 
 ---
